@@ -7,6 +7,7 @@ keys.json is a file that should be in the route directory of your application. I
 ```
 {
     "edamam_app_id": "app_id here",
-    "edamam_app_key": "app_key here"
+    "edamam_app_key": "app_key here",
+    "db_name": "name for database. This should be Senki by default, but you can change it"
 }
 ```
